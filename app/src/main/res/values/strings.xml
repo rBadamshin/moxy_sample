@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyMoxyApp</string>
+
+    <string name="was_first_attach">onFirstAttach (тут загружаем данные)</string>
+    <string name="change_color">Поменять цвет</string>
+    <string name="directon">Туда</string>
+    <string name="directon_another">Сюда</string>
+    <string name="back">Обратно</string>
+    <string name="to_another_fragment">на другой фрагмент</string>
+    <string name="view_destroyed">View был уничтожен</string>
+    <string name="constructor">Конструктор отработал</string>
+    <string name="description_empty_fragment">Просто фрагмент, чтобы убить вью предыдущего</string>
+    <string name="nav_to_list">К списку</string>
+    <string name="item_clicked">Тыкнул по %1$d</string>
+    <string name="to_presentered_list">На список с presenters</string>
+</resources>
